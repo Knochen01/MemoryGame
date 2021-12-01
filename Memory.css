@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient( to left, #4E65FF, #92EFFD);
+}
+
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+}
+
+.titles{
+    text-align: center;
+}
+
